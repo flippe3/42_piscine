@@ -1,0 +1,6 @@
+Credentials cache: API:34826
+        Principal: fnilsson@42.US.ORG
+
+  Issued                Expires               Principal
+Jun 18 15:40:45 2018  Jun 19 01:40:45 2018  krbtgt/42.US.ORG@42.US.ORG
+Jun 18 15:58:45 2018  Jun 19 01:40:45 2018  host/vgs-fn1.42.us.org@42.US.ORG
